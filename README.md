@@ -1,2 +1,2 @@
 # Git_GitHub
- Resumo das Aulas de Git e Gtihub
+ Resumo das Aulas de Git e Github
